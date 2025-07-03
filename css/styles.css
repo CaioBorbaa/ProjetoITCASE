@@ -240,4 +240,20 @@ html {
   align-items: center;
 }
 
+.ig{
+  text-align: center;
+  justify-content: center;
+  height: auto;
+  display:flex;
+}
+
+#imagem{
+  width: 40px;
+  margin-left: 10px;
+}
+
+#footer{
+  margin-top: 6px;
+}
+
 
