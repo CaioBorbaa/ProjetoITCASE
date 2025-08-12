@@ -11,7 +11,7 @@ body {
 }
 
 .topo {
-  background-color: #21a81c; /* verde */
+  background-color: #723172; /* roxo */
   color: white;
   display: flex;
   justify-content: space-between;
@@ -65,7 +65,7 @@ body {
 }
 
 .botao {
-  background-color: #21a81c;
+  background-color: #723172; /* roxo */
   color: white;
   padding: 10px 20px;
   text-decoration: none;
@@ -75,7 +75,7 @@ body {
 }
 
 .botao:hover {
-  background-color: #21a81c;
+  background-color: #723172; /* roxo */
 }
 
 .destaques {
@@ -115,7 +115,7 @@ body {
 }
 
 .rodape {
-  background-color: #21a81c;
+  background-color: #723172; /* roxo */
   color: white;
   text-align: center;
   padding: 1rem;
@@ -143,7 +143,7 @@ body {
   .menu .links {
     display: none;
     flex-direction: column;
-    background-color: #21a81c;
+    background-color: #723172; /* roxo */
     position: absolute;
     top: 70px;
     right: 20px;
@@ -223,7 +223,7 @@ html {
 }
 
 .produto button {
-  background-color: #21a81c;
+  background-color: #723172; /* roxo */
   border: none;
   padding: 10px;
   color: white;
@@ -232,7 +232,7 @@ html {
 }
 
 .produto button:hover {
-  background-color: #21a81c;
+  background-color: #723172; /* roxo */ 
 }
 
 .logo {
